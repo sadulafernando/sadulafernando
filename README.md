@@ -1,4 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+[![An image of @sadulafernando's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadulafernando)](https://holopin.io/@sadulafernando)
 <h1 align="center">Hi 👋, I'm Sadula Fernando</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
